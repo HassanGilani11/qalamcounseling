@@ -1,0 +1,13 @@
+2023-12-28T04:23:21+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_installed_time() in /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/plugins/pro-elements/core/admin/admin.php:264
+Stack trace:
+#0 /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-includes/class-wp-hook.php(324): ElementorPro\Core\Admin\Admin->change_tracker_params(Array)
+#1 /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-includes/plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/plugins/elementor/includes/tracker.php(563): apply_filters('elementor/track...', Array)
+#3 /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(true)
+#4 /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/plugins/elementor/includes/tracker.php(222): Elementor\Tracker::send_tracking_data(true)
+#5 /home/u700441347/ in /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/plugins/pro-elements/core/admin/admin.php on line 264
+
+2023-12-28T05:58:21+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/themes/aai-child/functions.php on line 21
+
+2023-12-28T05:58:21+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/u700441347/domains/divlogic.tech/public_html/testing19/wp-content/themes/aai-child/functions.php on line 21
+

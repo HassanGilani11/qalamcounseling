@@ -1,0 +1,20 @@
+2024-12-18T03:17:03+00:00 CRITICAL Uncaught Error: Undefined constant ElementorPro\License\API::BC_VALIDATION_CALLBACK in C:\xampp\htdocs\github-repo\wp-content\plugins\elementor-pro\modules\custom-attributes\module.php:144
+Stack trace:
+#0 C:\xampp\htdocs\github-repo\wp-content\plugins\elementor-pro\modules\custom-attributes\module.php(24): ElementorPro\Modules\CustomAttributes\Module->add_actions()
+#1 C:\xampp\htdocs\github-repo\wp-content\plugins\elementor\core\base\module.php(85): ElementorPro\Modules\CustomAttributes\Module->__construct()
+#2 C:\xampp\htdocs\github-repo\wp-content\plugins\elementor-pro\core\modules-manager.php(85): Elementor\Core\Base\Module::instance()
+#3 C:\xampp\htdocs\github-repo\wp-content\plugins\elementor-pro\plugin.php(357): ElementorPro\Core\Modules_Manager->__construct()
+#4 C:\xampp\htdocs\github-repo\wp-includes\class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init('')
+#5 C:\xampp\htdocs\github-repo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 C:\xampp\htdocs\github-repo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\github-repo\wp-content\plugins\elementor\includes\plugin.php(652): do_action('elementor/init')
+#8 C:\xampp\htdocs\github-repo\wp-includes\class-wp-hook.php(324): Elementor\Plugin->init('')
+#9 C:\xampp\htdocs\github-repo\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#10 C:\xampp\htdocs\github-repo\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\github-repo\wp-settings.php(704): do_action('init')
+#12 C:\xampp\htdocs\github-repo\wp-config.php(99): require_once('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\github-repo\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\github-repo\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\github-repo\wp-content\plugins\elementor-pro\modules\custom-attributes\module.php on line 144
+

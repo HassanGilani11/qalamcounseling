@@ -1,0 +1,35 @@
+.er-post-thumbnail-area {
+    position: relative;
+}
+
+.er-post-thumbnail-area .single__random__category a {
+    background: #223645;
+    padding: 10px 25px;
+    margin-top: 6px;
+    margin-right: 4px;
+    display: inline-block;
+    color: #fff;
+}
+
+.er-post-thumbnail-area .single__random__category{
+    z-index: 10;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.er-post-thumbnail-area .element__ready__thumb__date a {
+    background: #223645;
+    padding: 10px 25px;
+    margin-top: 6px;
+    margin-right: 4px;
+    display: inline-block;
+    color: #fff;
+}
+
+.er-post-thumbnail-area .element__ready__thumb__date{
+    z-index: 10;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

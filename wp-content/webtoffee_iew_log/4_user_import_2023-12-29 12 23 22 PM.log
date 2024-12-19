@@ -1,0 +1,11 @@
+12-29-2023 @ 12:23:22 - ---[ New import started at 2023-12-29 12:23:22 ] PHP Memory: 2 GB, WP Memory: 40 MB
+12-29-2023 @ 12:23:22 - Preparing for import.
+12-29-2023 @ 12:23:22 - Row :1 - Parsing item.
+12-29-2023 @ 12:23:22 - Row :1 - Parsing failed. Reason: User with same Email already exists. Email: techsupport@vrtechsol.com
+12-29-2023 @ 12:23:22 - Row :2 - Parsing item.
+12-29-2023 @ 12:23:22 - Row :2 - Processing item.
+12-29-2023 @ 12:23:22 - Processing users.
+12-29-2023 @ 12:23:22 - > &#8220;6&#8221;User imported successfully. ID:6
+12-29-2023 @ 12:23:22 - > Finished importing user 6
+12-29-2023 @ 12:23:22 - Row :2 - User imported successfully.
+12-29-2023 @ 12:23:22 - ---[ Import ended at 2023-12-29 12:23:22]---

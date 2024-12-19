@@ -1,0 +1,271 @@
+{
+    "version": "0.4",
+    "title": "Donism \u2013 Gallery_Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "3a027473",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "10",
+                    "bottom": "80",
+                    "left": "10",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "10",
+                    "bottom": "60",
+                    "left": "10",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "39a7e5e2",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "74128428",
+                            "settings": {
+                                "sg_setting_item_show": {
+                                    "unit": "px",
+                                    "size": "8",
+                                    "sizes": []
+                                },
+                                "sg_setting_column_responsive": {
+                                    "unit": "px",
+                                    "size": "4",
+                                    "sizes": []
+                                },
+                                "sg_setting_column_responsive_tablet": {
+                                    "unit": "px",
+                                    "size": "2",
+                                    "sizes": []
+                                },
+                                "sg_setting_column_responsive_mobile": {
+                                    "unit": "px",
+                                    "size": "2",
+                                    "sizes": []
+                                },
+                                "sg_setting_image_height_responsive": {
+                                    "unit": "px",
+                                    "size": "380",
+                                    "sizes": []
+                                },
+                                "sg_setting_icon_lightbox": {
+                                    "value": "icon icon-plus",
+                                    "library": "ekiticons"
+                                },
+                                "sg_filter_all_label": "All",
+                                "sg_filter_list": [
+                                    {
+                                        "sg_filter_list_name": "Gallery Item",
+                                        "_id": "bb6a800"
+                                    }
+                                ],
+                                "sg_gallery_image_size_imagesize_size": "full",
+                                "sg_gallery_list": [
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/scientist-in-protection-suit-typing-on-pc-working-2021-08-30-17-43-49-utc-1.jpg",
+                                            "id": "333",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "c84f2ef"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc-1.jpg",
+                                            "id": "330",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "be84639"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-2.jpg",
+                                            "id": "334",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "f9ea3f1"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc-1.jpg",
+                                            "id": "332",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "4700060"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/nature-and-environmental-protection-and-conservati-2021-08-31-05-06-40-utc-1.jpg",
+                                            "id": "335",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "918bf0b"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1.jpg",
+                                            "id": "414",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "389e3cf"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/botanical-environment-greenery-pottery-nature-2021-08-27-00-01-45-utc-1-1.jpg",
+                                            "id": "331",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "f76e41f"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc-2.jpg",
+                                            "id": "679",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "_id": "b47579a"
+                                    }
+                                ],
+                                "sg_loadmore_button_text": "Load More",
+                                "sg_loadmore_nomore_text": "No More Item",
+                                "st_container_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "st_container_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "st_control_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "st_control_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "st_item_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "st_item_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "st_item_hover_background_background_background": "classic",
+                                "st_item_hover_opacity_responsive": {
+                                    "unit": "px",
+                                    "size": "0.9",
+                                    "sizes": []
+                                },
+                                "st_item_hover_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "st_icon_normal_background_background_background": "classic",
+                                "st_icon_normal_font_size_responsive": {
+                                    "unit": "px",
+                                    "size": "18",
+                                    "sizes": []
+                                },
+                                "st_icon_normal_font_size_responsive_mobile": {
+                                    "unit": "px",
+                                    "size": "12",
+                                    "sizes": []
+                                },
+                                "st_icon_hover_background_background_background": "classic",
+                                "st_loadmore_margin_top_responsive": {
+                                    "unit": "px",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "st_search_form_placeholder": "Search Gallery Item...",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "st_item_hover_background_background_color": "globals\/colors?id=secondary",
+                                    "st_icon_normal_color_responsive": "globals\/colors?id=11158f8",
+                                    "st_icon_normal_background_background_color": "globals\/colors?id=primary",
+                                    "st_icon_hover_background_background_color": "globals\/colors?id=11158f8",
+                                    "st_icon_hover_color_responsive": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "jkit_gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

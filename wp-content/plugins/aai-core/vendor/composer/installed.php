@@ -1,0 +1,52 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '1fe60080b4e4d06067a1fc629a5076b868119c57',
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '1fe60080b4e4d06067a1fc629a5076b868119c57',
+            'dev_requirement' => false,
+        ),
+        'nette/php-generator' => array(
+            'pretty_version' => 'v3.5.x-dev',
+            'version' => '3.5.9999999.9999999-dev',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../nette/php-generator',
+            'aliases' => array(),
+            'reference' => '59bb35ed6e8da95854fbf7b7d47dce6156b42915',
+            'dev_requirement' => false,
+        ),
+        'nette/utils' => array(
+            'pretty_version' => 'v3.2.x-dev',
+            'version' => '3.2.9999999.9999999-dev',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../nette/utils',
+            'aliases' => array(),
+            'reference' => '5cde8fb56c9f6148f9677878ee4464731845290b',
+            'dev_requirement' => false,
+        ),
+        'quomodosoftbd/element-ready-license' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../quomodosoftbd/element-ready-license',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'reference' => '3e94f0b7f7dffad9e22345a2cb33de4caf034f5c',
+            'dev_requirement' => false,
+        ),
+    ),
+);

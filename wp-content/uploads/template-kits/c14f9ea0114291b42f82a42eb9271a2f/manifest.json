@@ -1,0 +1,1569 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "ZenDomus - Template kit for Smart Home Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Product Landing Page",
+            "screenshot": "screenshots\/product-landing-page.jpg",
+            "source": "templates\/product-landing-page.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/product-landing-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Loop Post",
+            "screenshot": "screenshots\/loop-post.jpg",
+            "source": "templates\/loop-post.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/template-kit\/loop-post\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zendomus - Error 404",
+            "screenshot": "screenshots\/zendomus-error-404.jpg",
+            "source": "templates\/zendomus-error-404.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/?elementor_library=zendomus-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zendomus - Single post",
+            "screenshot": "screenshots\/zendomus-single-post.jpg",
+            "source": "templates\/zendomus-single-post.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/?elementor_library=zendomus-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zendomus - Archive Blog",
+            "screenshot": "screenshots\/zendomus-archive-blog.jpg",
+            "source": "templates\/zendomus-archive-blog.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/?elementor_library=zendomus-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zendomus - Footer",
+            "screenshot": "screenshots\/zendomus-footer.png",
+            "source": "templates\/zendomus-footer.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/?elementor_library=zendomus-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Zendomus - Header",
+            "screenshot": "screenshots\/zendomus-header.png",
+            "source": "templates\/zendomus-header.json",
+            "preview_url": "https:\/\/demo.creativemox.com\/zendomus\/?elementor_library=zendomus-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.7",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.15.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "woman-controlling-smart-home-system-e1694576711655.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/woman-controlling-smart-home-system-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 102391,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8X2KHF8"
+        },
+        {
+            "filename": "bg_pattern_b.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/bg_pattern_b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/zendomus-error-404.json",
+                    "name": "Zendomus - Error 404"
+                },
+                {
+                    "source": "templates\/zendomus-single-post.json",
+                    "name": "Zendomus - Single post"
+                },
+                {
+                    "source": "templates\/zendomus-archive-blog.json",
+                    "name": "Zendomus - Archive Blog"
+                }
+            ],
+            "filesize": 176,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "closeup-shot-of-a-man-showing-a-smart-home-and-office-automation-control-metaverse-system.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/closeup-shot-of-a-man-showing-a-smart-home-and-office-automation-control-metaverse-system-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 81291,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4QBLX3G"
+        },
+        {
+            "filename": "digital-tablet-screen-with-smart-home-controller-on-a-wooden-table-e1694503786178.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/digital-tablet-screen-with-smart-home-controller-on-a-wooden-table-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 56083,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A927PM3"
+        },
+        {
+            "filename": "pretty-blonde-woman-using-digital-tablet-smart-home-concept-e1694346903300.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/pretty-blonde-woman-using-digital-tablet-smart-home-concept-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 102190,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RB479JP"
+        },
+        {
+            "filename": "smiling-wife-holding-digital-tablet-while-sitting-on-floor-with-husband-smart-home-concept-e1694503814683.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/smiling-wife-holding-digital-tablet-while-sitting-on-floor-with-husband-smart-home-concept-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 107549,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RNC5KU9"
+        },
+        {
+            "filename": "smartphone-with-smart-home-ui-app-e1694346835384.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/smartphone-with-smart-home-ui-app-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 87584,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VX3J85M"
+        },
+        {
+            "filename": "smart-home-control-e1694347000370.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/smart-home-control-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 120135,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6TFHS44"
+        },
+        {
+            "filename": "the-girl-sits-on-the-floor-and-controls-the-robot-vacuum-cleaner-using-a-smartphone-smart-home--e1694503907354.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/the-girl-sits-on-the-floor-and-controls-the-robot-vacuum-cleaner-using-a-smartphone-smart-home--800x596.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 123829,
+            "dimensions": [
+                1080,
+                804
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EVKX6MA"
+        },
+        {
+            "filename": "smart-home-technology-wall-system-or-man-with-digital-dashboard-screen-for-room-lighting-safety-s.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/smart-home-technology-wall-system-or-man-with-digital-dashboard-screen-for-room-lighting-safety-s-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 97354,
+            "dimensions": [
+                1280,
+                922
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4BLGQ6B"
+        },
+        {
+            "filename": "multiracial-business-team-having-a-meeting-in-the-office-e1694471433378.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/multiracial-business-team-having-a-meeting-in-the-office-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 110322,
+            "dimensions": [
+                1280,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TLE9X2Q"
+        },
+        {
+            "filename": "img_2.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_2-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 68071,
+            "dimensions": [
+                1440,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-of-married-couple-using-digital-tablet-t-RKHP5TY"
+        },
+        {
+            "filename": "controlling-home-with-video-cameras-and-digital-tablet-e1694563386968.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/controlling-home-with-video-cameras-and-digital-tablet-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 68374,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4PQ4VHT"
+        },
+        {
+            "filename": "img_6.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 65290,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/weatherproof-wired-security-camera-LU3KTGW"
+        },
+        {
+            "filename": "img_5.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 55243,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wireless-hd-camera-3J68GD2"
+        },
+        {
+            "filename": "img_8.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 74429,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smart-home-doorbell-camera-FJX27HY"
+        },
+        {
+            "filename": "img_7.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 132230,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smart-home-tablet-HRLWDMX"
+        },
+        {
+            "filename": "img_2.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 34018,
+            "dimensions": [
+                600,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smarthome-mobile-app-Q92J8J5"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "muzica.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/muzica-800x200.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 26718,
+            "dimensions": [
+                2400,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/goldline-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 18770,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/code-lab-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 18477,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "amara.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/amara-800x210.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 17866,
+            "dimensions": [
+                2284,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "utosia-2.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/utosia-2-800x205.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 17452,
+            "dimensions": [
+                2340,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "solaytic.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/solaytic-800x257.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 26622,
+            "dimensions": [
+                1870,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "lighting.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/lighting-800x258.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 15621,
+            "dimensions": [
+                1860,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "aven.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/aven-800x239.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 30416,
+            "dimensions": [
+                2010,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/circle-800x222.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 16096,
+            "dimensions": [
+                2160,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "24.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 26177,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 19025,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "18.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 35769,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "img_4.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_4-800x630.png",
+            "templates": [
+                {
+                    "source": "templates\/product-landing-page.json",
+                    "name": "Product Landing Page"
+                }
+            ],
+            "filesize": 77848,
+            "dimensions": [
+                840,
+                661
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cctv-security-camera-PQH8AH3"
+        },
+        {
+            "filename": "07.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24682,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "23.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 27202,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "20.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 27925,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "09.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 30223,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "man-s-hand-holding-small-house-model-with-auto-home-innovation-icons-on-virtual-screen-e1694514630541.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/man-s-hand-holding-small-house-model-with-auto-home-innovation-icons-on-virtual-screen-800x382.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 64900,
+            "dimensions": [
+                1280,
+                612
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KQE7GER"
+        },
+        {
+            "filename": "woman-setting-smart-home-application-e1694503722973.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/woman-setting-smart-home-application-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 80678,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V3DEKWV"
+        },
+        {
+            "filename": "gray-haired-mature-woman-smart-home-home-control-on-tablet-use-smart-home-app-e1694503839200.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/gray-haired-mature-woman-smart-home-home-control-on-tablet-use-smart-home-app-800x551.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 108239,
+            "dimensions": [
+                1080,
+                744
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AYJSP2X"
+        },
+        {
+            "filename": "full-length-young-woman-in-smart-casual-working-in-the-office-e1694503868207.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/full-length-young-woman-in-smart-casual-working-in-the-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 94125,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FKJ5V76"
+        },
+        {
+            "filename": "happy-family-with-modern-devices-and-dog-having-fun-playing-at-home-e1694503889914.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/happy-family-with-modern-devices-and-dog-having-fun-playing-at-home-800x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 103992,
+            "dimensions": [
+                1080,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-URVJ4VY"
+        },
+        {
+            "filename": "teamwork-in-the-office-e1694388332151.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/teamwork-in-the-office-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 190658,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NPJEMVH"
+        },
+        {
+            "filename": "21.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32298,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "25.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 26235,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "31.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/31.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 34685,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "working-as-team--e1694471401346.jpg",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/working-as-team--e1694471382609-800x412.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 170874,
+            "dimensions": [
+                1440,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZM9NF8N"
+        },
+        {
+            "filename": "img_3.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 89999,
+            "dimensions": [
+                600,
+                487
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/executive-business-team-holding-puzzle-pieces-isol-HVT92LN"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/zendomus-footer.json",
+                    "name": "Zendomus - Footer"
+                }
+            ],
+            "filesize": 53194,
+            "dimensions": [
+                500,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smarthome-mobile-app-Q92J8J5"
+        },
+        {
+            "filename": "Google-Play.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/Google-Play.png",
+            "templates": [
+                {
+                    "source": "templates\/zendomus-footer.json",
+                    "name": "Zendomus - Footer"
+                }
+            ],
+            "filesize": 5132,
+            "dimensions": [
+                216,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "App-Store.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/App-Store.png",
+            "templates": [
+                {
+                    "source": "templates\/zendomus-footer.json",
+                    "name": "Zendomus - Footer"
+                }
+            ],
+            "filesize": 3990,
+            "dimensions": [
+                216,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_zendomus_w.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/Logo_zendomus_w.png",
+            "templates": [
+                {
+                    "source": "templates\/zendomus-footer.json",
+                    "name": "Zendomus - Footer"
+                }
+            ],
+            "filesize": 15938,
+            "dimensions": [
+                594,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo_zendomus.png",
+            "thumbnail_url": "http:\/\/demo.creativemox.com\/zendomus\/wp-content\/uploads\/sites\/7\/2023\/09\/Logo_zendomus.png",
+            "templates": [
+                {
+                    "source": "templates\/zendomus-header.json",
+                    "name": "Zendomus - Header"
+                }
+            ],
+            "filesize": 17030,
+            "dimensions": [
+                594,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

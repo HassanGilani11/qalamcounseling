@@ -1,0 +1,194 @@
+
+.qs__blog__comments__header{
+    border-top: 1px solid #ebebeb;
+    padding-top: 50px;
+}
+.qs__blog__comments__title {
+    margin: 0;
+    padding: 0;
+}
+
+.qs-privacy_cookie_wrapper{
+    display: inline-block;
+}
+.qs-privacy_cookie_wrapper input.qs__blog__comment_cookies{
+  height: auto;
+  width: auto;
+  min-height: auto;
+}
+
+/* ----------------------------------
+    BLOG COMMENTS AREA
+---------------------------------- */
+.qs-comment-col-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.qs-comment-col-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.qs-comment-row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  
+}
+.qs__blog__comments__area,
+.qs__blog__comment_form_action{
+    display: flex;
+    flex-direction: column;
+}
+.qs__blog__comments__lists__area {
+    margin-top: 50px;
+}
+
+.qs__post__comment__item {
+    border-top: 1px solid #ebebeb;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.qs__blog__comments__list > div:first-child {
+    padding-top: 50px;
+}
+.qs__post__comment__body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.qs__post__comment__vcard {
+    display: flex;
+    align-items: center;
+}
+
+.qs__post__comment__content {
+    margin-top: 15px;
+}
+
+.qs__post__comment__meta__date {
+    margin-top: 10px;
+}
+
+.qs__post__comment__reply {
+    order: -1;
+    text-align: right;
+    position: absolute;
+    right: 5px;
+    top: 0;
+}
+.qs__post__comment__meta__date .qs__comment__edit__link {
+    display: inline-block;
+    margin-left: 10px;
+}
+.qs__post__comment__author__name {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.qs__post__comment__author__name .says {
+    margin-left: 7px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.qs__post__parent__comment .qs__post__comment__item {
+    padding-left: 30px;
+}
+.qs__blog__colse__comment {
+    padding: 30px 0;
+    border-top: 2px solid #f8f9fa;
+    border-bottom: 2px solid #f8f9fa;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.qs__blog__comments__list .pingback,
+.qs__blog__comments__list .trackback {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top: 1px solid #ebebeb;
+}
+/* ------ LAYOUT THREE ------ */
+.qs__blog__comment__author__and__comment__date {
+    padding-left: 15px;
+    line-height: 1;
+}
+
+.qs__blog__comment__author__and__comment__date .qs__post__comment__author__name {
+    margin-left: 0;
+}
+
+.qs__comment__formet__c .qs__comment__author__thumb {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.qs__comment__formet__c .qs__comment__edit__link {
+    margin-top: 15px;
+}
+
+/* ----- COMMENTS FORMS ---- */
+.qs__blog__comment__form {
+    margin-top: 50px;
+    border-top: 1px solid #ebebeb;
+    padding-top: 50px;
+}
+.qs__blog__comment__form__title__header {
+    margin-bottom: 20px;
+}
+.qs__blog__comment__comment__reply__title {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+}
+.qs__blog__comment__comment__reply__title small {
+    font-size: 14px;
+}
+.qs__blog__comment__logged__in__as {
+    margin-bottom: 10px;
+}
+.qs__blog__comment_form_action input,
+.qs__blog__comment_form_action textarea {
+    width: 100%;
+    min-height: 45px;
+    max-height: 140px;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border: 1px solid #ebebeb;
+}
+
+.qs__blog__comment__form__submit {
+    margin-top: 5px;
+}
+.qs__blog__comment__submit {
+    line-height: 1;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin: 0;
+    border: 0;
+    transition: 0.3s;
+    background: #ebebeb;
+}
+.qs__blog__comment__submit:hover,
+.qs__blog__comment__submit:focus {
+    background: dodgerblue;
+    color: #ffffff;
+}
+.qs__post__comment__item .qs__blog__comment_form_responds {
+    margin-top: 30px;
+    border-top: 1px solid #ebebeb;
+    padding-top: 30px;
+}
+
+@media only screen and (max-width:767px){
+    .qs__post__parent__comment .qs__post__comment__item {
+        padding-left: 0;
+    }
+}

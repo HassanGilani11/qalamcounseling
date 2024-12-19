@@ -1,0 +1,23 @@
+/* Post meta */
+.element-ready-blog-post-meta-style1 .posts__bottom__meta {
+
+    align-items: center;
+    display: flex;
+    gap: 9px;
+}
+
+.element-ready-blog-post-meta-style1 .posts__bottom__meta div a {
+    
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 14px;
+    color: #828893;
+    
+}
+
+.element-ready-blog-post-meta-style1 .posts__bottom__meta div {
+    
+    display: flex;
+    align-items: center;
+    
+}

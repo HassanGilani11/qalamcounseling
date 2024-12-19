@@ -1,0 +1,403 @@
+.order-3{
+    order: 3;
+}
+
+.order-2{
+    order: 2;
+}
+
+/*==================
+ * Audio player 
+ ====================*/
+
+ .jp-volume-bar-value {
+    /* background: url(../image/jplayer.pink.flag.jpg) 0 -320px repeat-x; */
+    height: 4px;
+    background: red;
+}
+.jp-audio .jp-interface .jp-volume-bar, .jp-audio-stream .jp-interface .jp-volume-bar {
+    top: 10px;
+    left: 0;
+}
+
+.jp-volume-bar {
+    /* background: url(../image/jplayer.pink.flag.jpg) 0 -300px repeat-x; */
+    position: absolute;
+    width: 197px;
+    height: 4px;
+    padding: 2px 2px 1px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+/*====  jp player css for widget  ====*/
+
+.er-jp-audio .jp-type-single{
+    background: linear-gradient(90deg, #5C59EA 0%, #968DFE 100%);
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.er-jp-audio .jp-type-single .jp-volume-controls{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.er-jp-audio .jp-type-single  .er-jp-audio-hide{
+    display: none;
+}
+
+.er-jp-audio .jp-type-single .jp-volume-controls .jp-volume-bar{
+    position: static;
+    flex-basis: 100%;
+    background: #FFFFFF85;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 0;
+    padding: 0;
+}
+
+
+.er-jp-audio .jp-type-single .jp-volume-controls .jp-mute{
+    flex-basis: 5%;
+}
+.er-jp-audio .jp-type-single .jp-volume-controls .jp-volume-max{
+    flex-basis: 0%;
+}
+.er-jp-audio .jp-type-single .jp-volume-controls button{
+    padding: 0;
+    background: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+
+.er-jp-audio.jp-state-muted .jp-type-single .jp-volume-controls .jp-mute i.er-volume-mute{
+    display: block;
+}
+.er-jp-audio .jp-type-single .jp-volume-controls .jp-mute i.er-volume-mute{
+    display: none;
+}
+
+.er-jp-audio.jp-state-muted .jp-type-single .jp-volume-controls .jp-mute i.er-volume{
+    display: none;
+}
+.er-jp-audio .jp-type-single .jp-volume-controls .jp-mute i.er-volume{
+    display: block;
+}
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-controls{
+    display: flex;
+    width: 100%;
+    border: 1px solid #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-controls button{
+    width: 100%;
+    border-radius: 0px;
+    background: #fff;
+    padding: 15px 0;
+    border: 0;
+}
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-progress{
+    margin-top: 10px;
+}
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-progress .jp-seek-bar{
+    height: 8px;
+    background: #FFFFFF85;
+    cursor: pointer;
+}
+
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-progress .jp-seek-bar .jp-play-bar{
+    height: 100%;
+    background: #fff;
+}
+
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .er_audio_show_time_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-top: 5px;
+}
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .er_audio_show_time_wrapper div{
+    color: #fff;
+}
+
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-toggles{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px; 
+}
+
+.er-jp-audio .jp-type-single  .jp-controls-holder .jp-toggles button{
+    background: transparent;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    font-size: 36px;
+}
+
+.er-jp-audio .jp-type-single .jp-details{
+    text-align: center;
+}
+
+.er-jp-audio .jp-type-single .jp-details .jp-title{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+
+.er-jp-audio.jp-state-playing .jp-type-single .jp-controls-holder .jp-controls .jp-play .er-play{
+    display: none;
+}
+
+.er-jp-audio .jp-type-single .jp-controls-holder .jp-controls .jp-play .er-play{
+    display: block;
+}
+
+.er-jp-audio.jp-state-playing .jp-type-single .jp-controls-holder .jp-controls .jp-play .er-pause{
+    display: block;
+}
+
+.er-jp-audio .jp-type-single .jp-controls-holder .jp-controls .jp-play .er-pause{
+    display: none;
+}
+
+/*====  jp playlist css for widget  ====*/
+
+.er-jp-audio-play-list .jp-type-playlist{
+    background: linear-gradient(90deg, #5C59EA 0%, #968DFE 100%);
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-title-wrapper{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-title-wrapper .jp-title{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.er-jp-audio-play-list.jp-state-muted .jp-type-playlist .jp-volume-controls .jp-mute .fa-volume{
+    display: none;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls .jp-mute .fa-volume{
+    display: block;
+}
+
+
+
+.er-jp-audio-play-list.jp-state-muted .jp-type-playlist .jp-volume-controls .jp-mute .fa-volume-mute{
+    display: block;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls .jp-mute .fa-volume-mute{
+    display: none;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .er-jp-audio-hide{
+    display: none;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls .jp-volume-bar{
+    position: static;
+    flex-basis: 100%;
+    background: #FFFFFF85;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 0;
+    padding: 0;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls .jp-mute{
+    flex-basis: 5%;
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls .jp-volume-max{
+    flex-basis: 0%;
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-volume-controls button{
+    padding: 0;
+    background: transparent;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder{
+    display: flex;
+    flex-wrap: wrap;
+    font-display: row;
+    justify-content: center;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-controls {
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-toggles {
+    display: inline-block;
+}
+
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-progress,
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-times{
+    flex-basis: 100%;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder button{
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 0px;
+    border: 0;
+    border-radius: 50%;
+    background: #fff;
+    padding: 0;
+    transition: all linear 0.3s;
+}
+
+.er-jp-audio-play-list.jp-state-playing  .jp-type-playlist .jp-controls-holder .jp-play .er-play{
+    display: none;
+}
+
+.er-jp-audio-play-list  .jp-type-playlist .jp-controls-holder .jp-play .er-play{
+    display: block;
+}
+
+
+.er-jp-audio-play-list.jp-state-playing  .jp-type-playlist .jp-controls-holder .jp-play .er-pause{
+    display: block;
+}
+
+.er-jp-audio-play-list  .jp-type-playlist .jp-controls-holder .jp-play .er-pause{
+    display: none;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-progress .jp-seek-bar{
+    height: 8px;
+    background: #FFFFFF85;
+    margin-top: 20px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-progress .jp-seek-bar .jp-play-bar{
+    height: 100%;
+    background: #fff;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-times {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder .jp-times div{
+    color: #fff;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist{
+    background: #fff;
+    margin-top: 15px;
+}
+
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist ul{
+    margin: 0;
+    padding: 0;
+    
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist ul li{
+    list-style-type: none;
+    padding-left: 35px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #d7d7d7;
+    
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist ul li:last-child{
+    border-bottom: 0;
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist ul li a{
+    color: #222;
+    font-weight: 500;
+    font-size: 16px;
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-playlist ul li a.jp-playlist-current{
+    color: #4169e1;
+}
+
+.er-jp-audio-play-list.jp-state-looped .jp-type-playlist .jp-controls-holder .jp-repeat{
+    background: #f8c0c1;
+    color: #fff;
+}
+.er-jp-audio-play-list.jp-state-shuffled .jp-type-playlist .jp-controls-holder .jp-shuffle{
+    background: #f8c0c1;
+    color: #fff;
+}
+.er-jp-audio-play-list .jp-type-playlist .jp-controls-holder button:hover{
+    background: #f8c0c1;
+    color: #fff;
+}
+
+/* 
+  Core
+*/
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.nav-pills .nav-link {
+    border-radius: .25rem;
+}
+
+.tab-content>.tab-pane {
+    display: none;
+}
+.tab-content>.active {
+    display: block;
+}
+.fade:not(.show) {
+    opacity: 0;
+}
+
+.fade {
+    transition: opacity .15s linear;
+}
+
+  /** end binduz post slider style **/

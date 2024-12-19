@@ -1,0 +1,3 @@
+Dec 18 2024 02:55:50
+{"type":8192,"message":"Using ${var} in strings is deprecated, use {$var} instead","file":"C:\\xampp\\htdocs\\github-repo\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\schema\\ActionScheduler_LoggerSchema.php","line":83}
+

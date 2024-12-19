@@ -1,0 +1,174 @@
+
+/* Element_Ready_Blog_Search_List Widet css  */
+
+.element-ready-post-container-style1 .single-post-item {
+    position: relative;
+    margin-bottom: 40px;
+}
+.element-ready-post-container-style1 .single-post-item .post-media {
+    margin-bottom: 0;
+    position: relative;
+    overflow: hidden;
+}
+.element-ready-post-container-style1 .img-responsive,
+.element-ready-post-container-style1 .thumbnail a > img,
+.element-ready-post-container-style1 .thumbnail > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.element-ready-post-container-style1 .single-post-item .post-details {
+    background: #ffffff;
+    border: 1px solid #e1e6ff;
+    padding: 30px;
+    padding-left: 40px;
+    position: relative;
+    overflow: hidden;
+}
+.element-ready-post-container-style1 .single__random__category a {
+    padding: 10px 20px;
+    display: inline-block;
+    background: #D91965;
+    color: #ffffff;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.element-ready-post-container-style1 .post-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.element-ready-post-container-style1 .post-title a {
+    color: #333333;
+}
+.element-ready-post-container-style1 p:last-of-type {
+    margin-bottom: 0;
+}
+.element-ready-post-container-style1 .posts__bottom__meta {
+    margin-top: 40px;
+    overflow: hidden;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.element-ready-post-container-style1 .er-post-meta-left {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+.element-ready-post-container-style1 .post__author img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 5px;
+    background: #E5E9F2;
+}
+.element-ready-post-container-style1 .er-post-meta-left div a {
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 14px;
+    color: #828893;
+}
+.element-ready-post-container-style1 .er-post-meta-left div a.author__link {
+    letter-spacing: 0;
+    font-weight: 600;
+    color: #828893;
+    font-size: 14px;
+}
+.element-ready-post-container-style1 .posts__bottom__meta .posts__readmore {
+  
+    margin-top: 6px;
+}
+.element-ready-post-container-style1 .posts__readmore a {
+    color: #828893;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    padding-left: 10px;
+    display: inline-block;
+}
+.element-ready-post-container-style1 .posts__readmore a i {
+    line-height: 1;
+    font-weight: 700;
+    position: relative;
+    top: 0;
+    position: absolute;
+    right: 100%;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    bottom: 0;
+    display: inline-flex;
+    align-items: center;
+}
+
+.element-ready-post-container-style1 .sticky-meta-featured {
+    display: inline-block;
+    transform: rotate(315deg);
+    font-size: 12px;
+    font-weight: 600;
+    -webkit-transform: rotate(315deg);
+    z-index: 1;
+    display: block;
+    position: absolute;
+    left: -30px;
+    top: 5px;
+    background: #2164dd;
+    width: auto;
+    height: auto;
+    padding: 12px 45px;
+    color: #fff;
+}
+.element-ready-post-container-style1 iframe,
+.element-ready-post-container-style1 object, 
+.element-ready-post-container-style1 embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.element-ready-post-container-style1.extend-style2 .posts__bottom__meta{
+    justify-content: left;
+    gap: 14px;
+  
+    margin-top: 0;
+}
+.element-ready-post-container-style1.extend-style2 .posts__bottom__meta div a {
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 14px;
+    color: #828893;
+}
+.element-ready-post-container-style1 .post__author,
+.element-ready-post-container-style1 .posts__readmore {
+    display: flex;
+    align-items: center;
+}
+.element-ready-post-container-style1.extend-style2 .posts__bottom__meta.style2{
+    display: flex;
+}
+.element-ready-post-container-style1.extend-style2 .single__random__category {
+    order: 1;
+}
+.element-ready-post-container-style1.extend-style2 .single__random__category a{
+    background: #d7d7da;    
+    color:rgb(27, 21, 21);
+}
+.posts__readmore{
+    display: inline-block;
+}
+.element-ready-post-container-style1.extend-style3 .single__random__category {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+
+/* Element_Ready_Blog_Search_List Widet end css  */

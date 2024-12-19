@@ -1,0 +1,2 @@
+a:6:{s:3:"row";i:1;s:7:"message";s:69:"User with same Email already exists. Email: techsupport@vrtechsol.com";s:6:"status";b:0;s:10:"status_msg";s:14:"Failed/Skipped";s:7:"post_id";s:0:"";s:9:"post_link";a:2:{s:5:"title";s:8:"Untitled";s:8:"edit_url";b:0;}}
+a:6:{s:3:"row";i:2;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:10:"status_msg";s:7:"Success";s:7:"post_id";i:6;s:9:"post_link";a:2:{s:8:"edit_url";s:60:"https://qalamcounseling.com/wp-admin/user-edit.php?user_id=6";s:5:"title";s:26:"shayanfaisal1122@gmail.com";}}

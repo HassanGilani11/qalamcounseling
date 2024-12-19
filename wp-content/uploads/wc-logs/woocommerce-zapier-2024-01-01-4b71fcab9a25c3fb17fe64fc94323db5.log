@@ -1,0 +1,10 @@
+2024-01-01T06:17:18+00:00 INFO Plugin deactivation started.
+2024-01-01T06:17:18+00:00 INFO Database version set to 0.
+2024-01-01T06:17:18+00:00 DEBUG wc_zapier_upgraded_to_version_2 admin notice disabled.
+2024-01-01T06:17:18+00:00 DEBUG wc_zapier_legacy_feeds_deleted admin notice disabled.
+2024-01-01T06:17:18+00:00 DEBUG wc_zapier_new_user admin notice disabled.
+2024-01-01T06:17:18+00:00 INFO Active Webhook ID 3 (WooCommerce Zapier) set to paused.
+2024-01-01T06:17:18+00:00 INFO Active Webhook ID 2 (WooCommerce Zapier) set to paused.
+2024-01-01T06:17:18+00:00 INFO Active Webhook ID 1 (WooCommerce Zapier) set to paused.
+2024-01-01T06:17:18+00:00 INFO 3 active webhook(s) paused.
+2024-01-01T06:17:18+00:00 INFO Plugin deactivation completed.

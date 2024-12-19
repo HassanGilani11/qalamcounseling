@@ -1,0 +1,3 @@
+Dec 18 2024 06:15:15
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp\\htdocs\\github-repo\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":1021}
+

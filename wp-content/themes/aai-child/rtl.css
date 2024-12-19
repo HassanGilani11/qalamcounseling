@@ -1,0 +1,9 @@
+/*
+Theme Name:     aai-child
+Template:       aai
+
+This is the child theme for Aai theme.
+
+Right to Left text support.
+*/
+@import url("../twentyseventeen/rtl.css");

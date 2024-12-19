@@ -1,0 +1,2017 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Donism - Environment Charity Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism - Home_Page",
+            "screenshot": "screenshots\/donism-home-page.jpg",
+            "source": "templates\/donism-home-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-home_page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism - About_Us_Page",
+            "screenshot": "screenshots\/donism-about-us-page.jpg",
+            "source": "templates\/donism-about-us-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-about_us_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Campaigns_Page",
+            "screenshot": "screenshots\/donism-campaigns-page.jpg",
+            "source": "templates\/donism-campaigns-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-campaigns_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Campaigns_Details_Page",
+            "screenshot": "screenshots\/donism-campaigns-details-page.jpg",
+            "source": "templates\/donism-campaigns-details-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-campaigns_details_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Gallery_Page",
+            "screenshot": "screenshots\/donism-gallery-page.jpg",
+            "source": "templates\/donism-gallery-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-gallery_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Events_Page",
+            "screenshot": "screenshots\/donism-events-page.jpg",
+            "source": "templates\/donism-events-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-events_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Volunteers_Page",
+            "screenshot": "screenshots\/donism-volunteers-page.jpg",
+            "source": "templates\/donism-volunteers-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-volunteers_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Contact_Us_Page",
+            "screenshot": "screenshots\/donism-contact-us-page.jpg",
+            "source": "templates\/donism-contact-us-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-contact_us_page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013Blog_Template",
+            "screenshot": "screenshots\/donism-blog-template.jpg",
+            "source": "templates\/donism-blog-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/?elementor_library=donism-blog_template",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013Blog_Details_Template",
+            "screenshot": "screenshots\/donism-blog-details-template.jpg",
+            "source": "templates\/donism-blog-details-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/?elementor_library=donism-blog_details_template",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013Error_404_Template",
+            "screenshot": "screenshots\/donism-error-404-template.jpg",
+            "source": "templates\/donism-error-404-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/?elementor_library=donism-error_404_template",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism - Header_Template",
+            "screenshot": "screenshots\/donism-header-template.jpg",
+            "source": "templates\/donism-header-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/?elementor_library=donism-header_template",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Footer_Template",
+            "screenshot": "screenshots\/donism-footer-template.jpg",
+            "source": "templates\/donism-footer-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/?elementor_library=donism-footer_template",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Donism \u2013 Hero_Section",
+            "screenshot": "screenshots\/donism-hero-section.jpg",
+            "source": "templates\/donism-hero-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-hero_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism \u2013 About_Us_Section",
+            "screenshot": "screenshots\/donism-about-us-section.jpg",
+            "source": "templates\/donism-about-us-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-about_us_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism \u2013 Events_Section",
+            "screenshot": "screenshots\/donism-events-section.jpg",
+            "source": "templates\/donism-events-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-events_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism \u2013 Campaigns_Section",
+            "screenshot": "screenshots\/donism-campaigns-section.jpg",
+            "source": "templates\/donism-campaigns-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-campaigns_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism \u2013 Volunteers_Section",
+            "screenshot": "screenshots\/donism-volunteers-section.jpg",
+            "source": "templates\/donism-volunteers-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-volunteers_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Donism \u2013 Gallery_Section",
+            "screenshot": "screenshots\/donism-gallery-section.jpg",
+            "source": "templates\/donism-gallery-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/40\/template-kit\/donism-gallery_section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.3.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.3",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.5.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "greenhouse-engineers-maintaining-ambient-environme-2021-09-24-02-50-13-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/greenhouse-engineers-maintaining-ambient-environme-2021-09-24-02-50-13-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 234813,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/greenhouse-engineers-maintaining-ambient-environme-6LC659Q"
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 2922,
+            "dimensions": [
+                66,
+                64
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2-1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/icon2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 2447,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3-1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/icon3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 2336,
+            "dimensions": [
+                66,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 116628,
+            "dimensions": [
+                692,
+                857
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dots-shape.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/dots-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 4458,
+            "dimensions": [
+                119,
+                247
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circle-shape.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/circle-shape.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 30848,
+            "dimensions": [
+                243,
+                242
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 234628,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-woman-in-environment-conservation-te-LWW2G64"
+        },
+        {
+            "filename": "hert-circle.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/hert-circle.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 11517,
+            "dimensions": [
+                193,
+                193
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circle-1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/circle-1.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-contact-us-page.json",
+                    "name": "Donism \u2013 Contact_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 1188,
+            "dimensions": [
+                17,
+                17
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "map.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/map-800x388.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 20482,
+            "dimensions": [
+                1969,
+                954
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 149487,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-volunteer-collecting-garbage-on-the-beach-with-AQN3CDW"
+        },
+        {
+            "filename": "agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 136788,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agricultural-engineer-controlling-quality-of-green-KCFAZXR"
+        },
+        {
+            "filename": "workig-in-green-environment-2021-08-26-19-52-01-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/workig-in-green-environment-2021-08-26-19-52-01-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 109611,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/workig-in-green-environment-ZLAQ2RU"
+        },
+        {
+            "filename": "environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 243695,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environment-and-care-for-the-planet-and-nature-5ZZSH8V"
+        },
+        {
+            "filename": "focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 134689,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-woman-in-environment-conservation-te-LWW2G64"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 2800,
+            "dimensions": [
+                55,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 124613,
+            "dimensions": [
+                600,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmentally-friendly-multiethnic-women-pick-up-A5BKSDT"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 2527,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape2.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/shape2.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 117475,
+            "dimensions": [
+                702,
+                857
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "a-portrait-of-a-caucasian-businesswoman-FFWE3TA-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/a-portrait-of-a-caucasian-businesswoman-FFWE3TA-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 13902,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFWE3TA"
+        },
+        {
+            "filename": "business-woman-at-outdoor-URMUBDU.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/business-woman-at-outdoor-URMUBDU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 17272,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-URMUBDU"
+        },
+        {
+            "filename": "handsome-man-4LH3GB9-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/handsome-man-4LH3GB9-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 18703,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4LH3GB9"
+        },
+        {
+            "filename": "woman-wearing-a-black-coat-wearing-glasses-sitting-FZ8279W-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/woman-wearing-a-black-coat-wearing-glasses-sitting-FZ8279W-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 14691,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZ8279W"
+        },
+        {
+            "filename": "nature-and-environmental-protection-and-conservati-2021-08-31-05-06-40-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/nature-and-environmental-protection-and-conservati-2021-08-31-05-06-40-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 128842,
+            "dimensions": [
+                350,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/nature-and-environmental-protection-and-conservati-ZK9LVK5"
+        },
+        {
+            "filename": "map2.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/map2-800x508.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 73983,
+            "dimensions": [
+                1155,
+                734
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team-bg.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/team-bg-800x620.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 52636,
+            "dimensions": [
+                960,
+                744
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "smiling-female-volunteer-holding-bottle-and-garbag-2021-08-28-13-43-36-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/smiling-female-volunteer-holding-bottle-and-garbag-2021-08-28-13-43-36-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 120572,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-female-volunteer-holding-bottle-and-garbag-6S9QKCV"
+        },
+        {
+            "filename": "nature-protection-concept-male-scientist-looking-2021-08-27-21-24-18-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/nature-protection-concept-male-scientist-looking-2021-08-27-21-24-18-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 133781,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/nature-protection-concept-male-scientist-looking-a-TEYAMRL"
+        },
+        {
+            "filename": "a-beautiful-asian-woman-environmental-activists-st-2021-10-21-03-32-49-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/a-beautiful-asian-woman-environmental-activists-st-2021-10-21-03-32-49-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 114839,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-beautiful-asian-woman-environmental-activists-st-ELKRFPJ"
+        },
+        {
+            "filename": "spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-33-09-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-33-09-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 120055,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/spaying-vegetables-with-water-or-plant-protection--GEVB8SW"
+        },
+        {
+            "filename": "scientist-in-protection-suit-typing-on-pc-working-2021-08-30-17-43-49-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/scientist-in-protection-suit-typing-on-pc-working-2021-08-30-17-43-49-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 69376,
+            "dimensions": [
+                393,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/scientist-in-protection-suit-typing-on-pc-working--FYC63JR"
+        },
+        {
+            "filename": "agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 96466,
+            "dimensions": [
+                340,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agricultural-engineer-controlling-quality-of-green-KCFAZXR"
+        },
+        {
+            "filename": "focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 91456,
+            "dimensions": [
+                340,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-woman-in-environment-conservation-te-LWW2G64"
+        },
+        {
+            "filename": "man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 116811,
+            "dimensions": [
+                340,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-volunteer-collecting-garbage-on-the-beach-with-AQN3CDW"
+        },
+        {
+            "filename": "team-of-environmental-conservation-volunteers-clea-2021-08-28-13-43-34-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/team-of-environmental-conservation-volunteers-clea-2021-08-28-13-43-34-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-home-page.json",
+                    "name": "Donism - Home_Page"
+                }
+            ],
+            "filesize": 143278,
+            "dimensions": [
+                500,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-environmental-conservation-volunteers-clea-QR35WNG"
+        },
+        {
+            "filename": "focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/focused-young-woman-in-environment-conservation-te-2021-09-01-06-32-04-utc-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-details-page.json",
+                    "name": "Donism \u2013 Campaigns_Details_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-contact-us-page.json",
+                    "name": "Donism \u2013 Contact_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-blog-template.json",
+                    "name": "Donism \u2013Blog_Template"
+                },
+                {
+                    "source": "templates\/donism-blog-details-template.json",
+                    "name": "Donism \u2013Blog_Details_Template"
+                },
+                {
+                    "source": "templates\/donism-error-404-template.json",
+                    "name": "Donism \u2013Error_404_Template"
+                },
+                {
+                    "source": "templates\/donism-hero-section.json",
+                    "name": "Donism \u2013 Hero_Section"
+                }
+            ],
+            "filesize": 239706,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-woman-in-environment-conservation-te-LWW2G64"
+        },
+        {
+            "filename": "agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc-2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/agricultural-engineer-controlling-quality-of-green-2021-09-24-02-50-15-utc-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-details-page.json",
+                    "name": "Donism \u2013 Campaigns_Details_Page"
+                },
+                {
+                    "source": "templates\/donism-about-us-section.json",
+                    "name": "Donism \u2013 About_Us_Section"
+                }
+            ],
+            "filesize": 236568,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agricultural-engineer-controlling-quality-of-green-KCFAZXR"
+        },
+        {
+            "filename": "environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 122793,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmentally-friendly-multiethnic-women-pick-up-A5BKSDT"
+        },
+        {
+            "filename": "scientist-in-protection-suit-typing-on-pc-working-2021-08-30-17-43-49-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/scientist-in-protection-suit-typing-on-pc-working-2021-08-30-17-43-49-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-details-page.json",
+                    "name": "Donism \u2013 Campaigns_Details_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-events-section.json",
+                    "name": "Donism \u2013 Events_Section"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 99305,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/scientist-in-protection-suit-typing-on-pc-working--FYC63JR"
+        },
+        {
+            "filename": "environmental-activist-about-to-plant-tree-on-a-su-2021-08-28-16-05-39-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmental-activist-about-to-plant-tree-on-a-su-2021-08-28-16-05-39-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-page.json",
+                    "name": "Donism \u2013 Campaigns_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-campaigns-section.json",
+                    "name": "Donism \u2013 Campaigns_Section"
+                }
+            ],
+            "filesize": 104710,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmental-activist-about-to-plant-tree-on-a-su-PPFTSGQ"
+        },
+        {
+            "filename": "confident-and-responsible-volunteer-cleaning-park-2021-08-28-21-42-59-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/confident-and-responsible-volunteer-cleaning-park-2021-08-28-21-42-59-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 133711,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-and-responsible-volunteer-cleaning-park--JCREUUR"
+        },
+        {
+            "filename": "protection-and-love-of-earth-2021-12-09-01-54-42-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/protection-and-love-of-earth-2021-12-09-01-54-42-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 116740,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/protection-and-love-of-earth-NM2PVHJ"
+        },
+        {
+            "filename": "african-businessman-with-face-mask-for-protection-2021-08-31-09-32-21-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/african-businessman-with-face-mask-for-protection-2021-08-31-09-32-21-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 119500,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-businessman-with-face-mask-for-protection--T9YUWNE"
+        },
+        {
+            "filename": "attractive-smiling-volunteer-holding-new-in-hands-2021-09-03-14-11-26-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/attractive-smiling-volunteer-holding-new-in-hands-2021-09-03-14-11-26-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-about-us-page.json",
+                    "name": "Donism - About_Us_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                },
+                {
+                    "source": "templates\/donism-volunteers-section.json",
+                    "name": "Donism \u2013 Volunteers_Section"
+                }
+            ],
+            "filesize": 113024,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-smiling-volunteer-holding-new-in-hands-UFUDJ9D"
+        },
+        {
+            "filename": "man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc-3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/man-volunteer-collecting-garbage-on-the-beach-with-2021-09-03-02-32-17-utc-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-campaigns-details-page.json",
+                    "name": "Donism \u2013 Campaigns_Details_Page"
+                }
+            ],
+            "filesize": 208580,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-volunteer-collecting-garbage-on-the-beach-with-AQN3CDW"
+        },
+        {
+            "filename": "nature-and-environmental-protection-and-conservati-2021-08-31-05-06-40-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/nature-and-environmental-protection-and-conservati-2021-08-31-05-06-40-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 100209,
+            "dimensions": [
+                340,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/nature-and-environmental-protection-and-conservati-ZK9LVK5"
+        },
+        {
+            "filename": "botanical-environment-greenery-pottery-nature-2021-08-27-00-01-45-utc-1-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/botanical-environment-greenery-pottery-nature-2021-08-27-00-01-45-utc-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 55563,
+            "dimensions": [
+                340,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/botanical-environment-greenery-pottery-nature-PELVD7B"
+        },
+        {
+            "filename": "environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc-2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmentally-friendly-multiethnic-women-pick-up-2021-08-31-03-50-05-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-gallery-page.json",
+                    "name": "Donism \u2013 Gallery_Page"
+                },
+                {
+                    "source": "templates\/donism-gallery-section.json",
+                    "name": "Donism \u2013 Gallery_Section"
+                }
+            ],
+            "filesize": 157021,
+            "dimensions": [
+                370,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmentally-friendly-multiethnic-women-pick-up-A5BKSDT"
+        },
+        {
+            "filename": "environmental-activists-2021-08-27-09-55-08-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmental-activists-2021-08-27-09-55-08-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-events-section.json",
+                    "name": "Donism \u2013 Events_Section"
+                }
+            ],
+            "filesize": 115771,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmental-activists-8SJGJ4Z"
+        },
+        {
+            "filename": "international-group-of-demonstrators-fighting-for-2021-08-29-10-21-17-utc-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/international-group-of-demonstrators-fighting-for-2021-08-29-10-21-17-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-events-page.json",
+                    "name": "Donism \u2013 Events_Page"
+                },
+                {
+                    "source": "templates\/donism-events-section.json",
+                    "name": "Donism \u2013 Events_Section"
+                }
+            ],
+            "filesize": 106392,
+            "dimensions": [
+                320,
+                220
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/international-group-of-demonstrators-fighting-for--W37SMST"
+        },
+        {
+            "filename": "environmental-activists-2021-08-27-09-55-08-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environmental-activists-2021-08-27-09-55-08-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-volunteers-page.json",
+                    "name": "Donism \u2013 Volunteers_Page"
+                }
+            ],
+            "filesize": 237724,
+            "dimensions": [
+                800,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environmental-activists-8SJGJ4Z"
+        },
+        {
+            "filename": "environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-contact-us-page.json",
+                    "name": "Donism \u2013 Contact_Us_Page"
+                }
+            ],
+            "filesize": 209701,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/environment-and-care-for-the-planet-and-nature-5ZZSH8V"
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-1-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-header-template.json",
+                    "name": "Donism - Header_Template"
+                }
+            ],
+            "filesize": 26730,
+            "dimensions": [
+                1287,
+                299
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "botanical-environment-greenery-pottery-nature-2021-08-27-00-01-45-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/botanical-environment-greenery-pottery-nature-2021-08-27-00-01-45-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 221645,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/botanical-environment-greenery-pottery-nature-PELVD7B"
+        },
+        {
+            "filename": "Logo-whit.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/Logo-whit-800x174.png",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 30800,
+            "dimensions": [
+                1372,
+                299
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "saving-natural-environment-2021-09-24-03-26-00-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/saving-natural-environment-2021-09-24-03-26-00-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 15405,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/saving-natural-environment-9N92RYB"
+        },
+        {
+            "filename": "spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-35-02-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-35-02-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 17555,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/spaying-vegetables-with-water-or-plant-protection--JA6CEZK"
+        },
+        {
+            "filename": "save-and-protection-earth-planet-2021-09-01-23-44-15-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/save-and-protection-earth-planet-2021-09-01-23-44-15-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 15015,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/save-and-protection-earth-planet-L3QSE54"
+        },
+        {
+            "filename": "people-and-love-for-nature-environment-concept-2021-08-29-16-40-56-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/people-and-love-for-nature-environment-concept-2021-08-29-16-40-56-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 15378,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-and-love-for-nature-environment-concept-FKMRLX9"
+        },
+        {
+            "filename": "bottles-of-mineral-water-in-hand-of-woman-litteri-2021-08-26-18-15-53-utc.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/bottles-of-mineral-water-in-hand-of-woman-litteri-2021-08-26-18-15-53-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 16851,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/bottles-of-mineral-water-in-hand-of-woman-litterin-PDTNBXF"
+        },
+        {
+            "filename": "save-and-protection-earth-planet-2021-09-01-23-44-15-utc-Copy.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/40\/wp-content\/uploads\/sites\/51\/2021\/12\/save-and-protection-earth-planet-2021-09-01-23-44-15-utc-Copy.jpg",
+            "templates": [
+                {
+                    "source": "templates\/donism-footer-template.json",
+                    "name": "Donism \u2013 Footer_Template"
+                }
+            ],
+            "filesize": 15015,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/save-and-protection-earth-planet-L3QSE54"
+        }
+    ]
+}

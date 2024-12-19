@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Plumco were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://divlogic.tech
+Data file = /home/u700441347/domains/divlogic.tech/public_html/wp-content/uploads/2023/05/demo-content-import-file_2023-05-05__04-09-39.xml
+Widget file = /home/u700441347/domains/divlogic.tech/public_html/wp-content/uploads/2023/05/demo-widgets-import-file_2023-05-05__04-09-39.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Plumco: Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget 1 : 
+
+Plumco: Text Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+Plumco: Navigation - Quick Link - Imported
+
+Footer Widget 3 : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Footer Widget 4 : 
+
+Plumco: Navigation - Our Services - Imported
+
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Plumco: Navigation - Our Services - Imported to Inactive
+Plumco: Text Widget - No Title - Imported to Inactive
+
+project-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Plumco: Navigation - Our Services - Imported to Inactive
+Plumco: Text Widget - No Title - Imported to Inactive
+
+
+
+---ocdi/after_import---
+
